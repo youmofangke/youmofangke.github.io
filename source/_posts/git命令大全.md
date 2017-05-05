@@ -1,8 +1,9 @@
 ---
 title: git命令大全  
 date: 2017-05-05 15:08:32  
-tags:  
+tags:  [git]
 ---
+# Git命令行收录,持续更新...
 ```  
 git init                                                  # 初始化本地git仓库（创建新仓库）
 git config --global user.name "xxx"                       # 配置用户名
