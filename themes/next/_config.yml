@@ -254,11 +254,11 @@ post_wordcount:
   wordcount: false
   min2read: false
 
-# Wechat Subscriber
-wechat_subscriber:
-  enabled: true
-  qcode: /images/weixingongzhonghao.jpg
-  description: 欢迎您扫一扫上面的微信公众号，订阅我的公众号！
+# Wechat Subscriber 微信公众号 
+#wechat_subscriber:
+#  enabled: true
+#  qcode: /images/weixingongzhonghao.jpg
+#  description: 欢迎您扫一扫上面的微信公众号，订阅我的公众号！
 
 # Declare license on posts
 post_copyright:
