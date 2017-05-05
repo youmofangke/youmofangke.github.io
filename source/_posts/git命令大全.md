@@ -1,7 +1,8 @@
 ---
 title: git命令大全  
 date: 2017-05-05 15:08:32  
-tags:  [git]
+categories: 基石 #分类  
+tags: [Git]  
 ---
 # Git命令行收录,持续更新...
 ```  

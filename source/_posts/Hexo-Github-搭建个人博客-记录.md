@@ -1,6 +1,7 @@
 ---
 title: Hexo & Github 搭建个人博客 记录
 date: 2017-05-04 19:57:07
+categories: 基石 #分类  
 tags: [hexo,GitHub]
 ---
 # 什么是hexo?
