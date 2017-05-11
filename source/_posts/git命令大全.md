@@ -4,7 +4,13 @@ date: 2017-05-05 15:08:32
 categories: 基石 #分类  
 tags: [Git]  
 ---
-# Git命令行收录,持续更新...
+
+# Git命令大全,持续更新...
+
+> git和其他版本控制系统（如CVS）有不少的差别，git本身关心文件的整体性是否有改变，但多数的CVS或Subversion系统则在乎文件内容的差异。因此git更像一个文件系统，直接在本机上获取数据，不必连接到主机端获取数据。
+
+[Git简易指南链接(刚接触建议先看看)](http://www.bootcss.com/p/git-guide/)
+
 ```  
 git init                                                  # 初始化本地git仓库（创建新仓库）
 git config --global user.name "xxx"                       # 配置用户名
