@@ -114,11 +114,11 @@
   </entry>
   
   <entry>
-    <title>git命令大全</title>
+    <title>Git命令大全</title>
     <link href="https://volc1605.github.io/2017/05/05/Git%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8/"/>
     <id>https://volc1605.github.io/2017/05/05/Git命令大全/</id>
     <published>2017-05-05T07:08:32.000Z</published>
-    <updated>2017-05-19T05:14:48.300Z</updated>
+    <updated>2017-05-19T05:16:44.659Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Git命令大全-持续更新…"><a href="#Git命令大全-持续更新…" class="headerlink" title="Git命令大全,持续更新…"></a>Git命令大全,持续更新…</h1><blockquote>
 <p>git和其他版本控制系统（如CVS）有不少的差别，git本身关心文件的整体性是否有改变，但多数的CVS或Subversion系统则在乎文件内容的差异。因此git更像一个文件系统，直接在本机上获取数据，不必连接到主机端获取数据。</p>
